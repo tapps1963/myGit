@@ -4,4 +4,4 @@ add values
 
 Submit to database
 
-git status
+git status should be
